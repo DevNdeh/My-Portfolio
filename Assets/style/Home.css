@@ -1,0 +1,112 @@
+.button1{
+    color: white;
+    background-color:color-mix(in srgb, #6f42c1 80%, rgb(211, 192, 192) 20%);
+    background-repeat:repeat;
+}
+.button2{
+    color: white;
+    border-color:color-mix(in srgb, #6f42c1 80%, rgb(211, 192, 192) 20%);
+    background-color: transparent;
+}
+.container1{
+    background-color: #052c65;
+    padding: 5px;
+}
+.text{
+    color: white;
+}
+.text1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-weight: bolder;
+    margin-top: -10px;
+}
+.card{
+    width: 100%;
+    background-color: transparent;
+    border-radius: 5px;
+     border: none;
+}
+.button2:hover{
+    color: white;
+    border-color:color-mix(in srgb, #6f42c1 80%, rgb(211, 192, 192) 20%);
+    background-color: transparent;
+}
+.button1:hover{
+    color: white;
+    background-color:color-mix(in srgb, #6f42c1 80%, rgb(211, 192, 192) 20%);
+    background-repeat:repeat;
+}
+.icon{
+    padding: 10px;
+    border-radius: 13px;
+    border: none;
+    color: white;
+    background-color: #6f42c1;
+}
+.input{
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+footer{
+    background-color: #353fc0;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.card1{
+    background-color: #565fd3;
+    box-shadow: 5px 5px 5px #052c65;
+    padding: 20px;
+    border-radius: 15px;
+}
+body{
+    background-color: #052c65;
+}
+.icon1{
+    padding: 9px;
+    border-radius: 50%;
+    border: none;
+    color: #6f42c1;
+    background-color: white;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.card2{
+    background-color: transparent;
+    box-shadow: 5px 5px 5px#757bce;
+    border: 5px solid #565fd3;
+    padding: 20px;
+    border-radius: 15px;
+}
+.text2{
+    color: #757bce;
+}
+.card3{
+    border: 3px solid #565fd3;
+    border-radius: 20px;
+}
+.img{
+    border-radius: 20px;
+}
+.nav-link:hover{
+    color: rgb(133, 140, 202);
+}
+.navbar-toggler{
+    color: white;
+    background-color: white;
+}
+.navbar{
+    background-color: #052c65;
+    padding: 10px;
+}
+ul{
+    margin-left: 10px;
+}
+.link{
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    border: 2px solid white;
+    padding: 5px;
+}
